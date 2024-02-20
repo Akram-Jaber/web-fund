@@ -1,0 +1,29 @@
+
+#m1{
+    color:white;
+    background-color: black;
+    height: 70px;
+    margin: 10px;
+    padding: 5px 15px;
+}
+span {
+    color:aqua;
+}
+
+#m2{
+    background-color: #663399;
+    color: aliceblue;
+    height: 50px;
+    text-align: center;
+    margin: 10px;
+    font-size: 30px;
+    font-style: italic;
+}
+#m3{
+    text-decoration: underline;
+    background-color: #9fc5f8;
+    height: 30px;
+    text-align: right;
+    margin: 10px;
+    padding: 5px 15px;
+}

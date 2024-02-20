@@ -1,0 +1,42 @@
+.container{
+    
+
+}
+
+
+.row{
+    justify-content: space-between;
+    display: flex;
+    
+}
+
+.row .col{
+    justify-content: space-between;
+    display: flex;
+    margin: 20px;
+    /* width: 100%; */
+}
+.row .col-2{
+    
+    /* width: 100%; */
+    /* justify-content: space-around; */
+}
+
+.row .col-3 {
+    /* width: 100%; */
+    /* background-color: rgb(2, 72, 37); */
+    /* height: 100%; */
+}
+.col{
+    width: 25%;
+    background-color:rgb(2, 72, 37) ;
+    flex: 1;
+}
+.col-2{
+flex: 2;
+
+}
+.col-3{
+    background-color: rgb(2, 72, 37);
+    flex: 3;
+}

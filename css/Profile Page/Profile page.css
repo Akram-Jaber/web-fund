@@ -1,0 +1,49 @@
+.nav{
+    display: flex;
+    background-color: rgb(55, 53, 53);
+    height: 60px;
+    
+
+}
+.nav-title{
+    flex: 50%;
+    color: aliceblue;
+    margin: 10px;
+    
+    padding-left: 10px;
+}
+.nav-links{
+    display: flex; 
+    list-style-type: none;
+    margin: 20px 150px 0px 0px;
+    
+
+}
+.btn{
+    background-color: rgb(4, 74, 252);
+    color: aliceblue;
+    flex: 30%;
+} 
+.active{
+    margin-right: 20px;
+    
+}
+
+.nav-links a{
+    color: aliceblue;
+    text-decoration: none;
+    margin: 15px;
+    
+}
+.box-3body{
+    display: flex;
+
+}
+.true{
+    height: 30px;
+    width: 30px;
+}
+.user{
+    width: 40px;
+    height: 40px;
+}
